@@ -8,10 +8,10 @@ const Hero = () => {
     <HeroDiv>
       <HeroInfo>
         <div style={{ marginTop: "-250px" }}>
-          <h1>Free trial session with a trainer </h1>
+          <h1>უფასო საცდელი სესია ტრენერთან</h1>
         </div>
 
-        <button>Detailed</button>
+        <button>დეტალურად</button>
       </HeroInfo>
       <HeroImage>
         <img src={heroimg} alt="Hero" />

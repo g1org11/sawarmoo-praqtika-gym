@@ -61,7 +61,7 @@ const Header = () => {
                     duration={500}
                     to={"reasons"}
                   >
-                    Advantages
+                    უპირატესობები
                   </Link>
                 </ModalLi>
                 <ModalLi>
@@ -73,7 +73,7 @@ const Header = () => {
                     duration={500}
                     to={"membership"}
                   >
-                    Membership
+                    აბონიმენტები
                   </Link>
                 </ModalLi>
                 <ModalLi>
@@ -85,7 +85,7 @@ const Header = () => {
                     duration={500}
                     to={"aboutUs"}
                   >
-                    About
+                    ჩვენს შესახებ
                   </Link>
                 </ModalLi>
                 <ModalLi>
@@ -97,7 +97,7 @@ const Header = () => {
                     duration={500}
                     to={"trainers"}
                   >
-                    Trainers
+                    ტრენერები
                   </Link>
                 </ModalLi>
               </ModalUl>
@@ -115,7 +115,7 @@ const Header = () => {
               duration={500}
               to={"reasons"}
             >
-              Advantages
+              უპირატესობები
             </Link>
           </Li>
           <Li>
@@ -127,7 +127,7 @@ const Header = () => {
               duration={500}
               to={"membership"}
             >
-              Membership
+              აბონიმენტები
             </Link>
           </Li>
           <Li>
@@ -139,7 +139,7 @@ const Header = () => {
               duration={500}
               to={"aboutUs"}
             >
-              About
+              აბონიმენტები
             </Link>
           </Li>
           <Li>
@@ -151,7 +151,7 @@ const Header = () => {
               duration={500}
               to={"trainers"}
             >
-              Trainers
+              ტრენერები
             </Link>
           </Li>
         </Ul>
@@ -218,7 +218,7 @@ const Ul = styled.ul`
 `;
 
 const Li = styled.li`
-  font-size: 12px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 300;
   line-height: normal;
@@ -254,7 +254,7 @@ const ModalDiv = styled.div`
 `;
 
 const ModalLi = styled.li`
-  font-size: 12px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 300;
   line-height: normal;
