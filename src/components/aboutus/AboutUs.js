@@ -41,18 +41,18 @@ const AboutUs = () => {
         <h1>About us</h1>
         <Info>
           <p>
-            Gym24 is a leading fitness center located near Grushevka metro station, offering over
-            1500 sq. m of space dedicated to top-of-the-line workout equipment from leading brands
-            such as Hammer Strength, Life Fitness, and TechnoGym.
+            Gym24 არის წამყვანი ფიტნეს ცენტრი, რომელიც მდებარეობს გრუშევკას მეტროსთან ახლოს 1500
+            კვ.მ ფართობი, რომელიც განკუთვნილია წამყვანი ბრენდების სავარჯიშო აღჭურვილობისთვის.
+            როგორიცაა Hammer Strength, Life Fitness და TechnoGym.
           </p>
           <p>
-            With affordable membership options, Gym24 is accessible to everyone who wants to reach
-            their fitness goals, whether it's building strength, increasing endurance, or losing
-            weight.
+            ხელმისაწვდომი წევრობის ვარიანტებით, Gym24 ხელმისაწვდომია ყველასთვის, ვისაც სურს მიაღწიოს
+            მათი ფიტნეს მიზნები, იქნება ეს ძალის ამაღლება, გამძლეობის გაზრდა თუ დაკარგვა წონა.
           </p>
           <p>
-            Certified trainers at Gym24 provide expert guidance and support to develop personalized
-            workout plans tailored to each individual's needs and goals.
+            Gym24-ის სერტიფიცირებული ტრენერები უზრუნველყოფენ ექსპერტულ ხელმძღვანელობას და
+            მხარდაჭერას პერსონალიზებული განვითარებისთვის სავარჯიშო გეგმები, რომლებიც მორგებულია
+            თითოეული ინდივიდის საჭიროებებსა და მიზნებზე.
           </p>
         </Info>
       </AboutWrapper>
