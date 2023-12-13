@@ -16,16 +16,16 @@ const Trainers = () => {
   return (
     <Container id="trainers">
       <Wrapper>
-        <h1>Trainers staff</h1>
+        <h1>ტრენერების პერსონალი</h1>
         <TrainersWrapper>
-          <Trainer img={t1} title={"Victoria Shurpik"} />
-          <Trainer img={t2} title={"Elizabeth Lavrinenko"} />
-          <Trainer img={t3} title={"Ivan Gladkikh"} />
-          <Trainer img={t4} title={"Lyudmila Sabilo"} />
-          <Trainer img={t5} title={"Evgeny Gurkov"} />
-          <Trainer img={t6} title={"Anatoly Prytytsky"} />
-          <Trainer img={t7} title={"Victor Ludkovich"} />
-          <Trainer img={t8} title={"Maria Masyak"} />
+          <Trainer img={t1} title={"მარი თოფურია"} />
+          <Trainer img={t2} title={"ელიზაბეტ ლაბარტყავა"} />
+          <Trainer img={t3} title={"გიორგი ხოშტარია"} />
+          <Trainer img={t4} title={"ლუდმილა სურმაავა"} />
+          <Trainer img={t5} title={"გიორგი გამრეკელი"} />
+          <Trainer img={t6} title={"ზურა ცარციძე"} />
+          <Trainer img={t7} title={"ლევან ალიბეგაშვილი"} />
+          <Trainer img={t8} title={"ანა შამათავა"} />
         </TrainersWrapper>
       </Wrapper>
     </Container>
