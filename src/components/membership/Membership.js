@@ -12,54 +12,54 @@ const Membership = () => {
 
         <MemberSlider>
           <Member
-            title={"Pass ‘Trial’"}
+            title={"გაიარეთ 'საცდელი'"}
             price={"$ 0"}
             icon={marks}
-            textone={"Access to the gym from 8:00 to 14:00"}
-            texttwo={"The trainer on duty will introduce you to the gym"}
+            textone={"დარბაზში შესვლა 8:00 საათიდან 14:00 საათამდე"}
+            texttwo={"მორიგე ტრენერი გაგაცნობთ დარბაზს"}
             button={"buy"}
           />
           <Member
-            title={"Pass ‘Easy Start’ "}
+            title={"გაიარეთ 'მარტივი დაწყება'"}
             price={"$ 119"}
             icon={marks}
-            textone={"Visit without restrictions 24/7"}
-            texttwo={"Individual training program"}
-            textthree={"Access to the VTRAINER application"}
-            textfour={"Trainer support"}
+            textone={"ეწვიეთ შეზღუდვების გარეშე 24/7"}
+            texttwo={"ინდივიდუალური სასწავლო პროგრამა"}
+            textthree={"წვდომა VTRAINER აპლიკაციაზე"}
+            textfour={"ტრენერის მხარდაჭერა"}
           />
           <Member
-            title={"Pass ‘Free Time’  "}
+            title={"გაიარეთ 'თავისუფალი დრო' "}
             price={"$ 49"}
             icon={marks}
-            textone={"The entrance time to the gym is from 14:00 to 16:00"}
-            texttwo={"Without suspension of gym membership"}
-            textthree={"The trainer on duty will introduce you to the gym"}
+            textone={"სპორტდარბაზში შესვლის დროა 14:00-დან 16:00 საათამდე"}
+            texttwo={"სპორტული დარბაზის წევრობის შეჩერების გარეშე"}
+            textthree={"მორიგე ტრენერი გაგაცნობთ დარბაზს"}
           />
           <Member
-            title={"Pass ‘1 Month 24/7’ "}
+            title={"გაიაროს '1 თვე 24/7'"}
             price={"$ 85"}
             icon={marks}
-            textone={"Visit without restrictions 24/7"}
-            texttwo={"The trainer on duty will introduce you to the gym"}
+            textone={"ეწვიეთ შეზღუდვების გარეშე 24/7"}
+            texttwo={"მორიგე ტრენერი გაგაცნობთ დარბაზს"}
           />
           <Member
-            title={"Pass ‘In Shape (AM)’  "}
+            title={"გაიარეთ „ფორმაში (AM)“ "}
             price={"$ 165"}
             icon={marks}
-            textone={"Training in mini-groups until 14:00"}
-            texttwo={"Without suspension of gym membership"}
-            textthree={"Classes with a trainer in a mini-group 3 times a week"}
-            textfour={"Trainer support"}
+            textone={"ტრენინგი მინი-ჯგუფებში 14:00 საათამდე"}
+            texttwo={"სპორტული დარბაზის წევრობის შეჩერების გარეშე"}
+            textthree={"გაკვეთილები ტრენერთან ერთად მინი-ჯგუფში კვირაში 3-ჯერ"}
+            textfour={"ტრენერის მხარდაჭერა"}
           />
           <Member
-            title={"Pass ‘In Shape (PM)’  "}
+            title={"გაიარეთ 'ფორმის ფორმაში (PM)'"}
             price={"$ 195 "}
             icon={marks}
-            textone={"Training in mini-groups until 17:00"}
-            texttwo={"Without suspension of gym membership"}
-            textthree={"Classes with a trainer in a mini-group 3 times a week"}
-            textfour={"Trainer support"}
+            textone={"ტრენინგი მინი-ჯგუფებში 17:00 საათამდე"}
+            texttwo={"სპორტული დარბაზის წევრობის შეჩერების გარეშე"}
+            textthree={"გაკვეთილები ტრენერთან ერთად მინი-ჯგუფში კვირაში 3-ჯერ"}
+            textfour={"ტრენერის მხარდაჭერა"}
           />
         </MemberSlider>
       </MemberWrapper>

@@ -218,7 +218,7 @@ const Ul = styled.ul`
 `;
 
 const Li = styled.li`
-  font-size: 14px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 300;
   line-height: normal;
@@ -254,7 +254,7 @@ const ModalDiv = styled.div`
 `;
 
 const ModalLi = styled.li`
-  font-size: 14px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 300;
   line-height: normal;

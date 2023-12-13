@@ -15,27 +15,29 @@ const Reasons = () => {
         <ReasonsDiv>
           <Reason
             img={lineIcon}
-            title={"15000 sq.m."}
-            text={"A spacious gym for sports – a safe distance between exercise machines"}
+            title={"15000 კვ.მ."}
+            text={"ფართო სპორტული დარბაზი სპორტისთვის - უსაფრთხო მანძილი სავარჯიშო მანქანებს შორის"}
           />
           <Reason
             img={epuipmentIcon}
-            title={"More than 200 equipment"}
+            title={"200-ზე მეტი აღჭურვილობა"}
             text={
-              "No queues at the simulators. Premium equipment from LifeStyle, Hammer Strength, TechnoGym."
+              "სიმულატორებთან რიგები არ არის. პრემიუმ აღჭურვილობა LifeStyle, Hammer Strength, TechnoGym."
             }
           />
           <Reason
             img={zonesIcon}
-            title={"4 fitness zones"}
+            title={"4 ფიტნეს ზონა"}
             text={
-              "From cardio to functional and cycle. Separate area for boxing and mixed martial arts"
+              "კარდიოდან ფუნქციურ და ციკლამდე. ცალკე ფართი კრივისა და შერეული საბრძოლო ხელოვნებისთვის."
             }
           />
           <Reason
             img={timeIcon}
-            title={"Round-the-clock operation"}
-            text={"The gym is open 24 hours a day, also works on all holidays and weekends"}
+            title={"მრგვალი საათის მუშაობა"}
+            text={
+              "სპორტული დარბაზი ღიაა 24 საათის განმავლობაში, ასევე მუშაობს ყველა დღესასწაულზე და შაბათ-კვირას"
+            }
           />
         </ReasonsDiv>
       </ReasonWrapper>
@@ -86,7 +88,7 @@ const ReasonsDiv = styled.div`
     margin-bottom: 10px;
   }
   p {
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
