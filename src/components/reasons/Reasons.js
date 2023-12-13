@@ -10,7 +10,7 @@ import Reason from "./Reason";
 const Reasons = () => {
   return (
     <ReasonsContainer id="reasons">
-      <ReasonsTitle>Reasons to join</ReasonsTitle>
+      <ReasonsTitle>გაწევრიანების მიზეზები</ReasonsTitle>
       <ReasonWrapper>
         <ReasonsDiv>
           <Reason

@@ -38,7 +38,7 @@ const AboutUs = () => {
   return (
     <Container id="aboutUs">
       <AboutWrapper>
-        <h1>About us</h1>
+        <h1>ჩევნს შესახებ</h1>
         <Info>
           <p>
             Gym24 არის წამყვანი ფიტნეს ცენტრი, რომელიც მდებარეობს გრუშევკას მეტროსთან ახლოს 1500

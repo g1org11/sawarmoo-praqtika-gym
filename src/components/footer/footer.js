@@ -27,7 +27,7 @@ const Footer = () => {
           <p>საქართველო ქალაქი თბილისი, რუსთაველის გამზირი 15</p>
         </MiddlePart>
         <RightPart>
-          <h4>Contact</h4>
+          <h4>კონტაქტი</h4>
           <Infos>
             <Info>
               <Imgs>
