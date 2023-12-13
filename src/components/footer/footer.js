@@ -18,13 +18,13 @@ const Footer = () => {
           </a>
 
           <p>
-            Build strength and confidence at our gym with state-of-the-art equipment, personalized
-            training, and a motivating community
+            განავითარეთ ძალა და ნდობა ჩვენს სპორტდარბაზში უახლესი ტექნიკით, პერსონალიზებული ტრენინგი
+            და მოტივაციის საზოგადოება
           </p>
         </LeftPart>
         <MiddlePart>
-          <h4>Address</h4>
-          <p>Republic of Belarus Minsk city Dzerzhinsky Avenue 15</p>
+          <h4>მისამართი</h4>
+          <p>საქართველო ქალაქი თბილისი, რუსთაველის გამზირი 15</p>
         </MiddlePart>
         <RightPart>
           <h4>Contact</h4>
@@ -35,7 +35,7 @@ const Footer = () => {
                 <img src={email} alt="img"></img>
               </Imgs>
               <Texts>
-                <p>+375(44)-777-24-12</p>
+                <p>+559 - 599 55 55 88 </p>
                 <p>gym24@gmail.com</p>
               </Texts>
             </Info>
