@@ -8,7 +8,7 @@ const Membership = () => {
   return (
     <MembershipContainer id="membership">
       <MemberWrapper>
-        <MemberTitle>Gym membership</MemberTitle>
+        <MemberTitle>სპორტული დარბაზის წევრობა</MemberTitle>
 
         <MemberSlider>
           <Member
@@ -44,7 +44,7 @@ const Membership = () => {
             texttwo={"მორიგე ტრენერი გაგაცნობთ დარბაზს"}
           />
           <Member
-            title={"გაიარეთ „ფორმაში (AM)“ "}
+            title={"გაიარეთ 'დილით' "}
             price={"$ 165"}
             icon={marks}
             textone={"ტრენინგი მინი-ჯგუფებში 14:00 საათამდე"}
@@ -53,7 +53,7 @@ const Membership = () => {
             textfour={"ტრენერის მხარდაჭერა"}
           />
           <Member
-            title={"გაიარეთ 'ფორმის ფორმაში (PM)'"}
+            title={"გაიარეთ ' საღამოთ '"}
             price={"$ 195 "}
             icon={marks}
             textone={"ტრენინგი მინი-ჯგუფებში 17:00 საათამდე"}

@@ -125,7 +125,7 @@ const MainInfo = styled.div`
     }
   }
   p {
-    font-size: 16px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
